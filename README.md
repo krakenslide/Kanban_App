@@ -1,8 +1,16 @@
-# React + Vite
+# Standard Kraken Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fstandard-kraken-board.web.app%2Fboards)](https://standard-kraken-board.web.app/boards)
 
-Currently, two official plugins are available:
+Standard Kraken Board is a web application for managing task boards. It allows users to create, update, and delete boards, each containing tasks organized in different tabs such as 'todos', 'inProgress', and 'completed'.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- User authentication using Firebase Auth.
+- Create, update, and delete task boards.
+- Boards contain tasks organized into different tabs.
+- Real-time updates and Firestore integration.
+
+## Demo
+
+You can see the live application [here](https://standard-kraken-board.web.app/boards).
