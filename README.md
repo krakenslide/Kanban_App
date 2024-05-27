@@ -9,6 +9,7 @@ Standard Kraken Board is a web application for managing task boards. It allows u
 - User authentication using Firebase Auth.
 - Create, update, and delete task boards.
 - Boards contain tasks organized into different tabs.
+- Drag and drop tasks accross tabs.
 - Real-time updates and Firestore integration.
 
 ## Demo
